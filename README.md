@@ -106,13 +106,13 @@ Instead of abandoning ChromeOS Flex, I researched compatible replacement wireles
 
 ## 🔄 Hardware Adaptation
 
-While searching for a solution, I remembered an old Toshiba laptop stored away.
+While searching for a solution, I remembered an old Fujitsu laptop stored away.
 
 Its wireless adapter was compatible with ChromeOS Flex, so I transplanted it into the HP laptop.
 
 This introduced another unexpected challenge.
 
-The original HP wireless card used a single antenna connection, while the Toshiba replacement required two.
+The original HP wireless card used a single antenna connection, while the Fujitsu replacement required two.
 
 After further research, I confirmed that the replacement card would function correctly using only the primary antenna connection.
 
